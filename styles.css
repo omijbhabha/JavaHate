@@ -1,0 +1,34 @@
+body{
+	font-family: monospace;
+	background-color: papayawhip;
+	font-size: 2rem;
+}
+.omkar > h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.omkar>h2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.texty{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+
+}
+#click{
+	margin-top: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
